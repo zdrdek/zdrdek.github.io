@@ -1,0 +1,27 @@
+h1 {
+    position: relative;
+    left: 250px;
+    color: black;
+    background-color: green;
+    border: 5px solid yellow;
+    width: 175px;
+  }
+.quotes> {
+    color: rgb(255, 0, 21);
+    background-color: crimson;
+    border: 2px solid rgb(255, 102, 0);
+}
+.larger-image{
+    position: fixed;
+    top: 140px;
+    right: 125px;
+}
+ 
+* {
+    background-color: rgb(230, 224, 250);
+}
+.smaller-image{
+    width: 4%;
+    padding: 20px;
+    size: 50px;
+}
